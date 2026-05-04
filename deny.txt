@@ -1,0 +1,5 @@
+www.malware-example.com
+www.phishingdemo.org
+www.gambling-example.com
+www.games.example.org
+www.social-media-example.com
